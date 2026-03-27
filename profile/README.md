@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, this is FerretSearch 🐾⚡</h1>
 
+<p align="center">Sniff! Sniff!</p>
 <p align="center">
    <img width="1536" height="1024" alt="ferretsearch_textnobg" src="https://github.com/user-attachments/assets/6a1dbee6-315a-41f6-ad2f-bc99c4ac561b" />
-
 </p>
 
 **FerretSearch** is the company behind [**FerretSearch**](https://github.com/FerretSearch/FerretSearch), the product.
