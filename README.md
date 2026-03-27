@@ -4,12 +4,11 @@
    <img width="1536" height="1024" alt="ferretsearch_textnobg" src="https://github.com/user-attachments/assets/4760a781-07da-4038-960f-af635d4de5e9" />
 </p>
 
-
 **FerretSearch** is the company behind [**FerretSearch**](https://github.com/FerretSearch/FerretSearch), the product.
 
 We are building an enterprise information centralization platform that helps companies find and access internal knowledge through a conversational interface. Instead of manually searching across folders, tools, and systems, users can simply ask in their company’s internal chat where a file, policy, or document is located.
 
-Our goal is to give organizations the ability to access policies, documentation, business rules, and internal files with a single question.
+Our goal is to enable organizations to access policies, documentation, business rules, and internal files with a single question.
 
 ## What FerretSearch does
 
@@ -21,11 +20,11 @@ With FerretSearch, teams can:
 - Access internal policies and documentation more easily
 - Search across different systems from one place
 - Reduce time spent looking for information
-- Improve knowledge accessibility inside the company
+- Improve knowledge accessibility across the company
 
 ## How it works
 
-FerretSearch connects to the tools and platforms already used by companies and makes their information searchable through an internal chat interface.
+FerretSearch connects to the tools and platforms companies already use and makes their information searchable through an internal chat interface.
 
 Instead of asking:
 
@@ -43,7 +42,7 @@ This enables FerretSearch to act as a single access point for distributed compan
 
 ## Licensing
 
-We offer a MIT-License, allowing companies to connect and centralize their internal data while maintaining a sustainable model for the project. For those looking for more solutions, we also offer cloud plans, login, and account separation through RBAC.
+We offer an MIT License, allowing companies to connect and centralize their internal data while supporting a sustainable project model. For organizations looking for additional solutions, we also offer cloud plans, authentication, and account separation through RBAC.
 
 ## Vision
 
