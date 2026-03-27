@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, this is FerretSearch 🐾⚡</h1>
 
 <p align="center">
-  <img width="1536" height="1024" alt="ferretsearch_textnobg" src="https://github.com/user-attachments/assets/d05b14b0-c6cf-40bd-b202-372d923e074d" />
-
+   <img width="1536" height="1024" alt="ferretsearch_textnobg" src="https://github.com/user-attachments/assets/4760a781-07da-4038-960f-af635d4de5e9" />
 </p>
 
 
