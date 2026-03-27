@@ -43,7 +43,7 @@ This enables FerretSearch to act as a single access point for distributed compan
 
 ## Licensing
 
-We offer an MIT License, allowing companies to connect and centralize their internal data while supporting a sustainable project model. For organizations looking for additional solutions, we also offer cloud plans, authentication, and account separation through RBAC.
+We offer an open-source core under the MIT License, while additional commercial features such as cloud plans, authentication, and RBAC-based account separation are available separately.
 
 ## Vision
 
